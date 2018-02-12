@@ -1,0 +1,76 @@
+#Ignore Mac Metafiles
+.DS_Store
+
+#Program files
+*.exe
+
+#images
+*.png
+*.eps
+
+*.gif
+*.jpeg
+*.emf
+
+#data files and log files
+*.dta
+*.log
+*.smcl
+
+#word files
+*.doc
+*.docx
+
+
+#excel files
+*.xls
+*.xlsx
+*.csv
+*.xml
+
+#ppt files
+*.pptx
+*.ppt
+
+#pdf files
+
+
+#temporary files
+*~
+
+#tex-files
+*.tex
+*.aux
+*.lot
+*.out
+*.synctex.gz
+*.rtf
+
+#images
+*.jpeg
+*.emf
+*.esp
+*.gif
+*.wmf
+*.jpg
+*.png
+*.gph
+*.eps
+
+#audios
+*.m4a
+
+#videos
+*.3gpp
+
+#keep directories
+!*.gitkeepdir
+
+#temporary files
+*~
+
+#Zipped files
+*.zip
+*.rar
+
+
